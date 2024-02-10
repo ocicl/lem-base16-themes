@@ -1,0 +1,9 @@
+* lem-base16-themes
+
+base16 themes for Lem editor/IDE
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/lukpank/lem-base16-themes.git |
+| commit  | 74335ff                                              |
+| systems | lem-base16-themes                                    |
+|---------+------------------------------------------------------|
